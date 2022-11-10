@@ -2,7 +2,8 @@
 static const Block blocks[] = {
 
 /*Icon*/    /*Command*/  /*Update Interval*/ /*Update Signal*/
-  {"",      "cpu_sl",    5,     4},
+ // {"",      "cpu",       5,     4},
+  {"",      "cpu_py",    5,     4},
   {"",      "cputemp",   2,     5},
   {"",      "nettraf",   1,     16}, 
   {"",      "memory",    5,     8},
